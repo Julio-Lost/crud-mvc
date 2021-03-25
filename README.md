@@ -9,6 +9,7 @@ O projeto consiste em demonstrar um CRUD utilizando padrão de projeto MVC.
 
 - [AspNetCore](https://github.com/dotnet/aspnetcore)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Sqllite](https://github.com/sqlite/sqlite)
 
 ## Rodando a aplicação
 
