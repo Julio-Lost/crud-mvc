@@ -5,6 +5,12 @@ CRUD de clientes.
 ## Características
 O projeto consiste em demonstrar um CRUD utilizando padrão de projeto MVC.
 
+<div>
+  <p align="center">
+    <img src="https://a.imagem.app/AssIne.gif" alt="CRUD" height="325">
+  </p>
+</div>
+
 ## Técnologias utilizadas
 
 - [AspNetCore](https://github.com/dotnet/aspnetcore)
