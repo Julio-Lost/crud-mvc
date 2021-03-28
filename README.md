@@ -19,7 +19,7 @@ O projeto consiste em demonstrar um CRUD utilizando padrão de projeto MVC.
 
 ## Rodando a aplicação
 
-- Clone este respositório com o comando: \$git clone https://github.com/Julio-Lost/mvc-crud-aspnet.git
+- Clone este respositório com o comando: \$git clone https://github.com/Julio-Lost/MvcCliente.git
 
 - Ou faça o Fork para o seu github e clone.
 
